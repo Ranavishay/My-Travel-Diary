@@ -39,6 +39,9 @@ To install MyTravelDiary, follow these steps:
 - Glide (for image loading)
 
 ## Screenshots
+### First Page
+![image](https://github.com/Ranavishay/My-Travel-Diary/assets/61754070/a4a8799c-fe50-42ea-b041-16f7b8bab9fc)
+
 
 ## License
 
