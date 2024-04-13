@@ -40,7 +40,7 @@ To install MyTravelDiary, follow these steps:
 
 ## Screenshots
 
-![First Page](https://github.com/Ranavishay/My-Travel-Diary/assets/61754070/a4a8799c-fe50-42ea-b041-16f7b8bab9fc "First Page")  ![Sign Up Page](https://github.com/Ranavishay/My-Travel-Diary/assets/61754070/e3f2ce61-f376-44fc-ad2a-e500118a4cb9 "Sign Up Page") ![After Login](https://github.com/Ranavishay/My-Travel-Diary/assets/61754070/70a4b7c6-c161-480d-9ed0-c2c322a74f2e) 
+![First Page](https://github.com/Ranavishay/My-Travel-Diary/assets/61754070/a4a8799c-fe50-42ea-b041-16f7b8bab9fc "First Page")  ![Sign Up Page](https://github.com/Ranavishay/My-Travel-Diary/assets/61754070/e3f2ce61-f376-44fc-ad2a-e500118a4cb9 "Sign Up Page") ![After Login](https://github.com/Ranavishay/My-Travel-Diary/assets/61754070/70a4b7c6-c161-480d-9ed0-c2c322a74f2e "After Login - Main View") 
 
 
 After that you can create new album or view album by click on it.
