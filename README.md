@@ -4,7 +4,7 @@ MyTravelDiary is an Android application that allows users to create and manage t
 
 ## Installation
 
-To install MyTravelDiary, follow these steps:
+To install MyTravelDiary, follow these steps: 
 
 1. Clone the repository to your local machine.
   ```
