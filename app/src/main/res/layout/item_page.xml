@@ -23,7 +23,7 @@
         android:id="@+id/sentenceTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Sentence"
+        android:text="@string/sentence"
         android:textSize="18sp"
         android:textStyle="bold"
         />
@@ -32,7 +32,7 @@
         android:id="@+id/dateTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Date"
+        android:text="@string/date"
         android:textSize="18sp"
         android:textStyle="bold" />
 

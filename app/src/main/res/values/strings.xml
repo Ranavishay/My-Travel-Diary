@@ -4,4 +4,17 @@
     <string name="password">Password</string>
     <string name="button_login">Login</string>
     <string name="button_login_signup">Don\'t have an account? Sign up</string>
+    <string name="enter_sentence_Additional_details">Enter Sentence</string>
+    <string name="enter_date_Additional_details">Enter Date</string>
+    <string name="next__Additional_details">Next</string>
+    <string name="album_name">Album Name</string>
+    <string name="album_date">Album Date</string>
+    <string name="create_new_album">Create New Album</string>
+    <string name="add_page">Add Page</string>
+    <string name="save_album">Save Album</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_have_account_login">Already have account? Login!</string>
+    <string name="sentence">Sentence</string>
+    <string name="date">Date</string>
 </resources>
