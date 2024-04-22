@@ -20,7 +20,6 @@ To install MyTravelDiary, follow these steps:
 2. Create a new album by providing a title and optional description.
 3. Add pages to the album by uploading photos or videos and adding captions.
 4. View existing albums and navigate to see details of each album.
-5. Edit or delete albums and pages as needed.
 
 ## Features
 
